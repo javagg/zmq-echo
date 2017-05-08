@@ -1,0 +1,8 @@
+{
+  "name": "zmq-echo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "zeromq": "^4.2.1"
+  }
+}
